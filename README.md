@@ -22,7 +22,7 @@ It lets you click buttons for games you want to play and pings others who are in
 2. Set the channel ID inside the code where the bot sends the embed (`channel = bot.get_channel(...)`).
 3. Run the bot.
 4. Use `/spawn` in a text channel to post the game buttons.
-5. Click a button while in a voice channel to ping others with the same role.
+5. Click a button while in a voice channel to ping friends with the same role of the game you want to play.
 
 ---
 
